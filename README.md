@@ -10,4 +10,9 @@ I used streamlit in order to show cleanly process of gaussian fitting
 
 Presented project depicts the way that I analysed data for my Bachelors deegree work. It involved fitting of sum of multiple gaussian functions to spectral absorption data with wavelengths in X-axis in range 500-600nm.
 It is NOT original code that i have used for my work, only a clean presentation of how it was done.
-More information TBA...
+In samples you can find spectral data for which this project has been designed for.
+You can let me know if you have any thoughts abouts my this very first project.
+
+# More information TBA... 
+maybe...
+
